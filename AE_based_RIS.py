@@ -1,5 +1,5 @@
 # Autoencoder for communications with Reconfigurable Intelligent Surfaces
-
+# Author: Dao Thi Nga, Le Quy Don Technical University, Vietnam
 
 
 # Import libraries
